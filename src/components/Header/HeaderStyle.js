@@ -61,7 +61,7 @@ flex-wrap: wrap;
 `;
 export const Container2 = styled.div`
 width: 100%;
-background-color: #1035ac;
+background-color: #088395;
 /* height: 150px; */
 /* min-height: 49px; */
 position: fixed;

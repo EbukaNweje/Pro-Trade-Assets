@@ -1,8 +1,8 @@
 import React, {useState, useEffect} from 'react';
 import { NavLink } from 'react-router-dom'
 
-import pic from '../../asset/preeminentcryptotrade.png'
-import logo from '../../asset/preeminentcryptotrade.png'
+import pic from '../../asset/Pro-Trade Assets.png'
+import logo from '../../asset/Pro-Trade Assets.png'
 
 import {
     Container,

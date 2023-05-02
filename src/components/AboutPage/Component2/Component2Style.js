@@ -144,7 +144,7 @@ export const ButtonHold = styled(Link)`
 text-decoration: none;
 color: white;
 /* background-color: #7856d5; */
-background: linear-gradient(20deg,#1035ac,#000080);
+background: linear-gradient(20deg,#088395,#088395);
 width: 170px;
 height: 40px;
 display: flex;

@@ -317,7 +317,7 @@ background-color: #54D8A3;
 margin-bottom: 15px;
 `;
 export const ButtonHold = styled(Link)`
-background-color: #000080;
+background-color: #0A4D68;
 width: 210px;
 height: 40px;
 display: flex;

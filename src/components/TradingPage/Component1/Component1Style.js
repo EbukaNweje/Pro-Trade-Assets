@@ -26,7 +26,7 @@ align-items: center;
 export const Wrapper = styled.div`
 width: 100%;
 height: 100%;
-background: linear-gradient(20deg,#1035ac,#000080);
+background: linear-gradient(20deg,#0A4D68,#088395);
 /* padding-bottom: 72px; */
 position: relative;
 display: block;
@@ -116,8 +116,8 @@ margin-top: 40px;
 
 export const Box = styled.div`
     width: 50%;
-    /* background: linear-gradient(45deg, #7B52D3, #6073E0); */
-    background-color: #3E3274;
+    /* background: linear-gradient(45deg, #0A4D68, #088395); */
+    background-color: #0A4D68;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -137,7 +137,7 @@ export const TopDiv = styled.div`
 width: 94%;
 color: silver;
 /* background-image: url(${pic}); */
-background: linear-gradient(45deg, #7B52D3, #6073E0);
+background: linear-gradient(45deg, #088395, #0A4D68);
 /* background-color: linear-gradient(135deg, #7659D6, #646FDF); */
 display: flex;
 justify-content: center;

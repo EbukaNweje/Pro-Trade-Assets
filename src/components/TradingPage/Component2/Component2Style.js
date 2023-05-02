@@ -171,7 +171,7 @@ align-items: center;
 }
 `;
 export const Topic = styled.div`
-background: linear-gradient(20deg,#1035ac,#000080);
+background: linear-gradient(20deg,#0A4D68,#088395);
 display: block;
 color: #fff;
 line-height: 48px;
@@ -347,7 +347,7 @@ color : #3c357e;
 `;
 export const BottomRight = styled(Link)`
 /* display: inline-block; */
-    background-color: #1035ac;
+    background-color: #0A4D68;
     float: right;
     width: 33.333333%;
     line-height: 100px;

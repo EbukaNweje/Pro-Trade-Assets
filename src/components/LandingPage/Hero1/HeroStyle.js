@@ -44,7 +44,7 @@ export const Wrapper = styled.div`
 width: 100%;
 height: 100%;
 /* background-color: indigo; */
-background: linear-gradient(20deg,#1035ac,#000080);
+background: linear-gradient(20deg,#0A4D68,#088395);
 .//background-color: linear-gradient(#5f72bd,#5F5CB2, #800080); /
 opacity: 85%;
 display: flex;
