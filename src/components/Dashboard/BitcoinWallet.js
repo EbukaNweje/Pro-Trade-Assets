@@ -2,12 +2,12 @@ import React, { useState } from "react";
 import styled from "styled-components";
 import { CopyToClipboard } from "react-copy-to-clipboard";
 
-import bitcoinWalletImage from "../../asset/bitCoin-wallet.jpg";
+import bitcoinWalletImage from "../../asset/qck.jpg";
 
 const BitcoinWallet = () => {
 
   const [state, setState] = useState({
-    value: "bc1qcxum393n73ywftqnm77kjg7kc0qtav5s9fay5a",
+    value: "16QHjLEwjJNaCnTQJkHKdPfD6bb1NrUSYd",
     copied: false,
   });
   return (
