@@ -16,32 +16,32 @@ const DashboardPrivacy0 = ({Display}) => {
             Please read the following terms regarding our privacy policy.
             </p>
             <p>
-              An important part of the relationship we have with our Clients is the information you share with us. We want you to know how we treat your private information. preeminentcryptotrade - Force of Expirience protects our clients' privacy and does its best to provide their safety and convenience online. The Pipscountfx.com - Force of Expirience website is subject to this "Privacy Policy". It regulates data accumulation and usage at the website. Using the Pipscountfx - Force of Experience website infers your consent to the data practices given in this statement.
+              An important part of the relationship we have with our Clients is the information you share with us. We want you to know how we treat your private information. Pro-TradeAssets - Force of Expirience protects our clients' privacy and does its best to provide their safety and convenience online. The Pipscountfx.com - Force of Expirience website is subject to this "Privacy Policy". It regulates data accumulation and usage at the website. Using the Pipscountfx - Force of Experience website infers your consent to the data practices given in this statement.
             </p>
           </div>
         <div className="Standard">
             <h5>Your Personal Information Accumulation</h5>
              <p>
-             preeminentcryptotrade - Force of Experience accumulates such personal data as your name, 
+             Pro-TradeAssets - Force of Experience accumulates such personal data as your name, 
              ewallet information, secret question, secret answer and e-mail address. Some details about 
              your software and hardware which are collected automatically by our platform's website. 
              We receive such information as the type of your browser, your IP address, access times, 
              domain names to maintain high level of our services and to manage the statistics of the
-             preeminentcryptotrade - Force of Experience website. Please consider the fact that if you 
-             reveal your personal data directly through the public message boards of the preeminentcryptotrade
+             Pro-TradeAssets - Force of Experience website. Please consider the fact that if you 
+             reveal your personal data directly through the public message boards of the Pro-TradeAssets
               International - Force of Experience website, we are irresponsible for data privacy and 
               such data can be used by third parties. We assure you that we do not read or interfere 
-              into your online private communication. preeminentcryptotrade - Force of Experience "Privacy Policy" 
+              into your online private communication. Pro-TradeAssets - Force of Experience "Privacy Policy" 
               does not apply to other websites which you can decide to visit using a link from our website.
                That's why read attentively their privacy statements before giving them the right to 
-               collect your personal information. Please be aware that preeminentcryptotrade.com - Force of 
+               collect your personal information. Please be aware that Pro-TradeAssets.com - Force of 
              Experience does not bear responsibility for the content and rules of other websites.
             </p>
         </div>
         <div className="Standard">
             <h5>Use of Cookies</h5>
             <p>
-            So-called "cookies" are used at the preeminentcryptotrade - Force of Experience
+            So-called "cookies" are used at the Pro-TradeAssets - Force of Experience
              website to help you in personalizing your online presence. A cookie means a text 
              file which a web-page server places on your hard disk. Cookies pose no threat to your 
              computer: no memory leak, virus infection or other undesirable results can be expected. 
@@ -51,13 +51,13 @@ const DashboardPrivacy0 = ({Display}) => {
             <p>
             One of the main purposes of cookies is saving your time, which is very convenient for you.
              Cookie is intended to signal the web-server that the user has returned to a particular page.
-              For instance if you registered and personalized on the preeminentcryptotrade - Force of
+              For instance if you registered and personalized on the Pro-TradeAssets - Force of
                Experience's website to use its services, the cookie is necessary for the website to recall 
                some particular information at your following visit. The process of your personal data
                 recording becomes simpler and easier. Such data may include billing addresses, shipping
                  addresses, etc. When you come back to the ExpressTrading International - Force
                   of Experience website again, the data you conveyed before can be restored. In this case you 
-                  get quick access to the necessary preeminentcryptotrade.com - Force of Experience website features.
+                  get quick access to the necessary Pro-TradeAssets.com - Force of Experience website features.
             </p>
             <p>
             You can accept and decline cookies as you like. Most web browsers allow cookies by
@@ -71,21 +71,21 @@ const DashboardPrivacy0 = ({Display}) => {
         <div className="Standard">
             <h5>Changes to This Statement</h5>
             <p>
-            preeminentcryptotrade - Force of Experience reserves the right to amend occasionally 
+            Pro-TradeAssets - Force of Experience reserves the right to amend occasionally 
             this "Privacy Policy" to correspond actual company's and customers' interaction.
-            preeminentcryptotrade.com - Force of Experience strongly recommends you to review this
+            Pro-TradeAssets.com - Force of Experience strongly recommends you to review this
              Statement from time to time not to miss the updates. In this case you'll be always 
-             aware of preeminentcryptotrade - Force of Experience safety methods towards your
+             aware of Pro-TradeAssets - Force of Experience safety methods towards your
               personal data.
             </p>
            </div>
         <div className="Standard">
             <h5>Contact Information</h5>
             <p> 
-            preeminentcryptotrade - Force of Experience is glad to receive your comments concerning
-             this "Privacy Policy". In case you think that preeminentcryptotrade.com - Force of
+            Pro-TradeAssets - Force of Experience is glad to receive your comments concerning
+             this "Privacy Policy". In case you think that Pro-TradeAssets.com - Force of
               Experience does not follow the rules and violate this Statement, contact Acmerealm - 
-              Force of Experience at abuse@preeminentcryptotrade.com We guarantee that we will take 
+              Force of Experience at abuse@Pro-TradeAssets.com We guarantee that we will take 
               commercially reasonable efforts to discover and solve the problem
             </p>
            </div>

@@ -14,7 +14,7 @@ function DepositDetail() {
   /* const UserData =JSON.parse(localStorage.getItem("User")) */
   console.log("this is the data",data)
 
-  const url = `https://preeminentcryptotrade.onrender.com/api/userdata/${userid}`
+  const url = `https://pro-tradeassets.onrender.com/api/userdata/${userid}`
 
   useEffect(()=>{
     Axios.get(url)

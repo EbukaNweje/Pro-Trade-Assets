@@ -2,8 +2,8 @@
 import React, {useEffect, useState} from 'react'
 import styled from 'styled-components'
 import {Link } from 'react-router-dom'
-import bg from '../asset/bitcoinwallpaper.jpg'
-import logo from '../asset/preeminentcryptotrade.png'
+import bg from '../asset/bg.jpg'
+import logo from '../asset/Pro-Trade Assets.png'
 import { useNavigate } from "react-router-dom"
 import Axios from "axios"
 import { SpinnerCircular } from 'spinners-react';
@@ -33,7 +33,7 @@ function SignUp({Display}) {
   },[])
 
     const Data = {firstName,lastName,referenceid,password,confirmPassword,gender,phoneNumber,email}
-    const url = "https://preeminentcryptotrades.onrender.com/api/register"
+    const url = "https://pro-tradeassets.onrender.com/api/register"
     
     const Siginup = (e) => {
     setLoading(true)
@@ -82,12 +82,12 @@ function SignUp({Display}) {
             </Link>
           </LogoDiv>
           <Welcome>
-              <WelText>Welcome to <span>Preeminentcryptotrade</span> </WelText>
+              <WelText>Welcome to <span>Pro-Trade Assets</span> </WelText>
               <Parg>Our goal here is to provide investors with a platform that is trustworthy, 
                 reliable and efficient.</Parg>
             </Welcome>
             <FirstFooter>
-              <FirstFooterText1>© 2020 preeminentcryptotrade.com ! </FirstFooterText1>
+              <FirstFooterText1>© 2020 Pro-TradeAssets.com ! </FirstFooterText1>
               <FirstFooterText2>
                 {/* <span>Terms & Conditions</span> */}
                 <span><Link to="/contact" style={{color: "gray"}}>Contact</Link></span>
@@ -266,7 +266,7 @@ const FirstContainer = styled.div`
   background-image: url(${bg});
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: center;
   width: 44%;
   flex-wrap: wrap;
   display: flex;
@@ -300,7 +300,7 @@ const FirstParagraph = styled.p`
     margin-left: 10px;
     a {
       text-decoration: none;
-      color: #1e90ff;
+      color: #0A4D68;
     }
   }
   @media (max-width: 768px) {
@@ -517,7 +517,7 @@ const ButtonContainer = styled.div`
     height: 7vh;
     width: 25%;
     margin: 5% 0%;
-    background: #1e90ff;
+    background: #0A4D68;
     border: none;
     border-radius: 5px;
     color: #fff;

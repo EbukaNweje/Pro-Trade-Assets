@@ -1,5 +1,5 @@
 .contact {
-  background-image: linear-gradient(28deg, #000080, #1035ac);
+  background-image: linear-gradient(28deg, #0A4D68, #088395);
   padding: 10% 0 6% 5%;
 }
 
@@ -67,8 +67,8 @@
 .sbmt {
   background: linear-gradient(
     135deg,
-    #000080 0,
-    #1035ac 100%
+    #088395 0,
+    #0A4D68 100%
   );
   color: #fff !important;
   height: 40px;

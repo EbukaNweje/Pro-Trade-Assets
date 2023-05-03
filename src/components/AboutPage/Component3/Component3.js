@@ -17,8 +17,8 @@ const Component3 = () => {
         <Wrapper>
             <Div1>
                 <H4>INCORPURATION</H4>
-                <H1 href='https://preeminentcryptotrade.com/home/index4c4f.html?a=aboutus#'>preeminentcryptotrade.com; Nr.: 1122234445</H1>
-                <Content>preeminentcryptotrade.comis a cryptocurrency trading broker established in 2022. The wide array of services we offer were specifically designed to assist Bitcoin holders in making good cryptocurrency management decisions.</Content>
+                <H1 href='https://preeminentcryptotrade.com/home/index4c4f.html?a=aboutus#'>Pro-TradeAssets.com; Nr.: 1122234445</H1>
+                <Content>Pro-TradeAssets.comis a cryptocurrency trading broker established in 2022. The wide array of services we offer were specifically designed to assist Bitcoin holders in making good cryptocurrency management decisions.</Content>
                 <Line></Line>
             </Div1>
             <br/>

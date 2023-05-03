@@ -32,7 +32,7 @@ const Component2 = () =>{
                 <Div>
                     <Wrap>
                         <Icon><TfiComments style={{width: "25px", height: "25px", color: "#000080"}}/></Icon>
-                        <Content2>preeminentcryptotrade.com is a cryptocurrency company that was established in 2022. Our wide range of services are specifically designed to assist cryptocurrency holders.</Content2>
+                        <Content2>Pro-TradeAssets.com is a cryptocurrency company that was established in 2022. Our wide range of services are specifically designed to assist cryptocurrency holders.</Content2>
                     </Wrap>
                     <Wrap>
                         <Icon>

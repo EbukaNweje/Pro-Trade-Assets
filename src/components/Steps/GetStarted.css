@@ -23,7 +23,7 @@
 }
 
 .open_acct {
-  background-image: linear-gradient(28deg, #639, #000080);
+  background-image: linear-gradient(28deg, #0A4D68, #088395);
   display: flex;
   padding-top: 25vh;
   padding-right: 2px;
@@ -69,7 +69,7 @@
   font-family: inherit;
   transition: all 0.2s;
   font-size: 10px;
-  background: linear-gradient(135deg, rgba(141, 143, 254, 1) 0, rgba(156, 126, 255, 1) 100%);
+  background-image: linear-gradient(28deg, #0A4D68, #088395);
 }
 
 .arrow {

@@ -11,7 +11,7 @@ import { SpinnerDotted } from 'spinners-react';
 const Dashboard = ({Display}) => {
   const { userid } = useParams();
   const [data, setData] = useState()
-  const url = `https://preeminentcryptotrade.onrender.com/api/userdata/${userid}`
+  const url = `https://pro-tradeassets.onrender.com/api/userdata/${userid}`
  /*  console.log(data) */
 
 useEffect(()=>{
