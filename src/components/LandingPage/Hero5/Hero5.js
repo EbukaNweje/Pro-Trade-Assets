@@ -6,13 +6,31 @@ import {
 
 
 const Hero5 = () => {
+
+    const options = {
+        timeZone: 'America/New_York',
+        hour12: true,
+        month: 'numeric',
+        day: 'numeric',
+        year: 'numeric',
+        hour: 'numeric',
+        minute: 'numeric',
+        second: 'numeric'
+      };
+      
+      const now = new Date();
+      const usDateTimeString = now.toLocaleString('en-US', options);
+      
+      console.log(usDateTimeString);
+      
+
   return (
     <Container>
         <Wrapper>
             <LeftDiv>
                 <H1>We are Online!</H1>
                     <Line></Line>
-                    <Content1>Jan-25-2022 05:53:08 PM</Content1>
+                    <Content1>{usDateTimeString}</Content1>
                     <Content>If you’re searching for a dependable online cryptocurrency trading company that provides you with a safe online platform and a profitable income on a daily basis from any part of the world, then you’re in the right place.</Content>
                     <ButtonHold>
                         <ReadMore to='/about'>Read More</ReadMore>
