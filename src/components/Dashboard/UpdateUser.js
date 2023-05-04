@@ -9,7 +9,7 @@ const UpdateUser = ({Display}) => {
   const [last, setLast] = useState("")
   console.log(setLast)
 
-    const url = `https://preeminentcryptotrade.onrender.com/api/alluserdata`
+    const url = `https://pro-tradeassets.onrender.com/api/alluserdata`
   
     useEffect(()=>{
       Axios.get(url)
@@ -55,7 +55,7 @@ const UpdateUser = ({Display}) => {
           console.log(myObject)
           
           
-         const lastDepositupdate = `https://pro-tradeassets.onrender.com/api/${UpdateValues}/${id}`
+         const lastDepositupdate = `https://pro-tradeassets.onrender.comapi/${UpdateValues}/${id}`
          Axios.patch(lastDepositupdate, myObject)
           .then(res => console.log(res))
            console.log("this is the id", id) 
