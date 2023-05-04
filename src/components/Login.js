@@ -89,7 +89,7 @@ const Login = ({ Display }) => {
         </Welcome>
         <FirstFooter>
           <FirstFooterText1>
-            © 2020 Pro-TradeAssets.com !{' '}
+            © 2023 Pro-TradeAssets.com !{' '}
           </FirstFooterText1>
           <FirstFooterText2>
             {/* <span>Terms & Conditions</span> */}

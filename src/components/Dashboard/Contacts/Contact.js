@@ -26,8 +26,8 @@ const Contact = () => {
             <BsEnvelope />
              &nbsp;&nbsp;Protradeassets@gmail.com
             <br />
-            <BsHeadset />
-            &nbsp;&nbsp; Phone: +1 (847) 616-147
+            {/* <BsHeadset />
+            &nbsp;&nbsp; Phone: +1 (847) 616-147 */}
           </p>
           <hr />
 

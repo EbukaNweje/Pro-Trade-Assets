@@ -87,7 +87,7 @@ function SignUp({Display}) {
                 reliable and efficient.</Parg>
             </Welcome>
             <FirstFooter>
-              <FirstFooterText1>© 2020 Pro-TradeAssets.com ! </FirstFooterText1>
+              <FirstFooterText1>© 2023 Pro-TradeAssets.com! </FirstFooterText1>
               <FirstFooterText2>
                 {/* <span>Terms & Conditions</span> */}
                 <span><Link to="/contact" style={{color: "gray"}}>Contact</Link></span>
