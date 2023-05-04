@@ -27,7 +27,7 @@ const Component3 = () => {
                 <Left>
                     <Icon src={flaticon} alt='flaticon'/>
                     <H4>CERTIFICATE OF INCORPORATION</H4>
-                    <Content2>preeminentcryptotrade.com passed the registration procedure in Jan 2022 and is listed on the website of the royal registrar Companies House.</Content2>
+                    <Content2>Pro-TradeAssets.com passed the registration procedure in Jan 2022 and is listed on the website of the royal registrar Companies House.</Content2>
                    {/*  <ButtonHold>
                         <AiFillCalendar/>
                         <Text>VIEW OUR CERTIFICATE</Text>
