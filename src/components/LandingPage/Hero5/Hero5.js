@@ -20,7 +20,7 @@ const Hero5 = () => {
                     </ButtonHold>
             </LeftDiv>
             <RightDiv>
-                <BitcoinLink href='https://www.facebook.com/bitcoin'>Bitcoin</BitcoinLink>
+                <BitcoinLink href='https://www.facebook.com/bitcoin'></BitcoinLink>
             </RightDiv>
         </Wrapper>
     </Container>
