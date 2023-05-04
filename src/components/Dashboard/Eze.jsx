@@ -22,7 +22,7 @@ export default function Eze() {
               {/* <button className='button1'>Privacy Policy</button>
               <button className='button2'>Anti-Spam Policy</button>
               <button className='button3'>Rules</button> */}
-              <p>@2020 Protradeassets@gmail.com All Rights Reserved.</p>
+              <p>@2020 Protradeassets All Rights Reserved.</p>
             </div>
             <div className='footer_nav'>
               <p>
