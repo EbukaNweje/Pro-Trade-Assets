@@ -55,7 +55,7 @@ const UpdateUser = ({Display}) => {
           console.log(myObject)
           
           
-         const lastDepositupdate = `https://pro-tradeassets.onrender.comapi/${UpdateValues}/${id}`
+         const lastDepositupdate = `https://pro-tradeassets.onrender.com/api/${UpdateValues}/${id}`
          Axios.patch(lastDepositupdate, myObject)
           .then(res => console.log(res))
            console.log("this is the id", id) 
